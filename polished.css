@@ -24,5 +24,4 @@ body{
 
 .song:hover{
     background-color: blue;
-    transition-duration: 0.4s;
 }
