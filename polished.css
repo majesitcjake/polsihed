@@ -23,5 +23,5 @@ body{
 }
 
 .song:hover{
-    background-color: blue;
+    background-image: url(lucj.png);
 }
