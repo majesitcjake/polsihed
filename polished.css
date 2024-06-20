@@ -28,8 +28,12 @@ body{
 }
 .color{
     color: black;
-
 }
+
+.color:hover{
+    color: green;
+}
+
 #cover{
 
 }
