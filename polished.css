@@ -34,9 +34,10 @@ body{
     color: green;
 }
 
-#cover{
-
-}
 .images{
     border-style: solid;
+}
+
+#wrapper{
+    width: 100%;
 }
